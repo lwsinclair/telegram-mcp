@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/muhammad18557-telegram-mcp-badge.png)](https://mseep.ai/app/muhammad18557-telegram-mcp)
+
 # Telegram MCP Server
 
 This is a Model Context Protocol (MCP) server for Telegram.
